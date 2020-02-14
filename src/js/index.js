@@ -1,3 +1,4 @@
+//this is the controller 
 import Search from "./models/search"
 import * as searchView from "./views/searchView"
 import { elements, renderLoader, clearLoader } from "./views/base"
